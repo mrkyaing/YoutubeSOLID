@@ -1,4 +1,4 @@
-# SOLID Principle in Software Engineering and Software Development
+# SOLID Principle in Software Engineering and  Development 
 - Single Responsibility
 - Open-Closed
 - Liskov Substitution
